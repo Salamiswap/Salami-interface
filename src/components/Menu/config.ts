@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://pancakeswap.finance/'
+    href: 'https://salamiswap.xyz/'
   },
   {
     label: 'Trade',
@@ -24,22 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswap.finance/farms'
+    href: 'https://salamiswap.xyz/farms'
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswap.finance/syrup'
-  },
-  {
-    label: 'Lottery',
-    icon: 'TicketIcon',
-    href: 'https://pancakeswap.finance/lottery'
-  },
-  {
-    label: 'NFT',
-    icon: 'NftIcon',
-    href: 'https://pancakeswap.finance/nft'
+    href: 'https://salamiswap.xyz/syrup'
   },
   {
     label: 'Info',
@@ -64,25 +54,12 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'IFO',
-    icon: 'IfoIcon',
-    href: 'https://pancakeswap.finance/ifo'
-  },
-  {
     label: 'More',
     icon: 'MoreIcon',
     items: [
       {
-        label: 'Voting',
-        href: 'https://voting.pancakeswap.finance'
-      },
-      {
         label: 'Github',
         href: 'https://github.com/pancakeswap'
-      },
-      {
-        label: 'Docs',
-        href: 'https://docs.pancakeswap.finance'
       },
       {
         label: 'Blog',
